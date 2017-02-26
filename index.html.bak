@@ -1,0 +1,333 @@
+<!DOCTYPE HMTL>
+<HTML lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel=stylesheet href="css/normalize.css">
+    <link rel=stylesheet href="css/style.css">
+      <link rel=stylesheet href="css/font-awesome.min.css">
+
+
+</head>
+
+<body>
+
+    <!-- start header-->
+    <div class="header">
+        <div class="slider">
+            <div class="cont">
+                <div class="intro">
+                    <h1>katchup &amp; Sauce</h1>
+
+                </div>
+
+            </div>
+
+
+        </div>
+        <div class="navbar">
+            <div class="cont">
+                <P>Tom<span>Ato</span></P>
+                <ul>
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Our Company</a></li>
+                    <li><a href="#">Contact Us</a></li>
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <!-- end header-->
+    <!-- start features-->
+    <div class="features">
+        <div class="cont">
+            <div class="feat">
+                <h2>Values</h2>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+            </div>
+            <div class="feat">
+                <h2>Goals</h2>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+            </div>
+            <div class="feat">
+                <h2>Hobbies</h2>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+            </div>
+        </div>
+    </div>
+    <!-- end features-->
+    <!-- start about me-->
+    <div class="about-me">
+        <div class="cont">
+            <div class="img"><img src="img/heinz-ketchup-oz-bottles-case-logo-1323993780.jpg" alt="placeholder"> </div>
+            <div class="info">
+                <h2>About Me</h2>
+                <p > Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+                <ul>
+                    <li>
+                        <h3>Web Design</h3>
+                        <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                    </li>
+                    <li>
+                        <h3>Graphic Design</h3>
+                        <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                    </li>
+                    <li>
+                        <h3>Online Markting</h3>
+                        <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                    </li>
+                    <li>
+                        <h3>SEO</h3>
+                        <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- end about me-->
+    <!-- start myskills-->
+    <div class="myskills">
+        <div class="cont">
+            <div class="skills">
+                <h2>My skills</h2>
+                <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+                <button class="color-buttons">Contact me</button>
+
+            </div>
+            <div class="Progress">
+
+
+                <div class="tech">
+                    <h3> Photoshop</h3>
+                    <div><span class="span-color"  style="width: 85%;">85% &nbsp;</span>
+
+                    </div>
+
+
+                </div>
+                <div class="tech">
+                    <h3> HTML/CSS</h3>
+                    <div><span  class="span-color" style="width: 90%;">90% &nbsp;</span>
+
+                    </div>
+
+
+                </div>
+                <div class="tech">
+                    <h3> PHP/MYSQL</h3>
+                    <div><span class="span-color" style="width: 70%;">70% &nbsp;</span>
+
+                    </div>
+
+
+                </div>
+                <div class="tech">
+                    <h3> ASP.NET</h3>
+                    <div><span class="span-color" style="width: 54%;">54% &nbsp;</span>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!--end  myskills-->
+    <div class="clear"></div>
+    <!--start  resume-->
+    <div class="resume">
+        <div class="cont">
+
+            <h2>Resume</h2>
+            <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+            <button class="color-buttons">Download Resme</button>
+
+        </div>
+    </div>
+    <!--end  resume-->
+    <!-- start myedu-->
+    <div class="myedu">
+        <div class="cont">
+            <div class="edu">
+                <h2>My education</h2>
+                <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+            </div>
+            <div class="exp">
+                <h3>Graphic design diploma</h3>
+                <p class="p-color">reeves collage / june 2008-may 2010</p>
+                <span>4.0 GPA</span>
+                <hr>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+                <h3>CIT diploma</h3>
+                <p class="p-color">reeves collage / june 2008-may 2010</p>
+                <span>4.0 GPA</span>
+                <hr>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+
+
+
+            </div>
+
+            <div class="clear"></div>
+
+            <hr/>
+            <div class="edu">
+                <h2>MyWork expriance</h2>
+                <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+            </div>
+            <div class="exp">
+                <h3>Lead web Designer</h3>
+                <p class="p-color">ABC COMPANY</p>
+                <span>3 years</span>
+                <hr>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+                <h3>junior designer</h3>
+                <p class="p-color">reeves collage / june 2008-may 2010</p>
+                <span>1 Year</span>
+                <hr>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+                <h3>web developer</h3>
+                <p class="p-color">reeves collage / june 2008-may 2010</p>
+                <span>1 Year</span>
+                <hr>
+                <p class="p-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!--end  mysedu-->
+
+    <!--start  Testimonials-->
+
+
+
+    <div class="Testimonials">
+        <div class="cont">
+
+
+            <q  class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type andthe printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</q>
+            <h3>BODY</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li class="active"></li>
+                <li></li>
+
+
+            </ul>
+        </div>
+    </div>
+
+
+
+    <!--end  Testimonials-->
+    <!--start porto-->
+    <div class="proto">
+        <div class="cont">
+            <h2>Portolio</h2>
+
+
+
+
+            <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+
+            <div class="imgs"><img src="img/1.jpg"></div>
+            <div class="imgs"><img src="img/2.jpg"></div>
+            <div class="imgs"><img src="img/3.jpg"></div>
+            <div class="imgs"><img src="img/4.jpeg"></div>
+            <div class="imgs"><img src="img/5.jpg"></div>
+            <div class="imgs"><img src="img/6.jpg"></div>
+            <div class="imgs"><img src="img/7.jpg"></div>
+            <div class="imgs"><img src="img/8.jpg"></div>
+            <div class="imgs"><img src="img/9.jpg"></div>
+
+
+
+
+
+
+        </div>
+    </div>
+    <!--end  porto-->
+    <!--start  contact-me-->
+    <div class="contact-me">
+        <div class="cont">
+
+            <div class="info">
+                <h2>Contact Me</h2>
+
+                <p class="p-color"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+
+                <P class="p-color">
+                    <strong>Email:</strong>info@batee5.com
+                    <br/>
+                    <strong>phone:</strong>01091043660
+                </P>
+
+            </div>
+            <form class="form">
+                <label>Name *</label>
+                <input type="text">
+                <label>Email address *</label>
+                <input type="text">
+                <label>Message *</label>
+                <textarea></textarea>
+                <input type="submit" value="Contact me">
+            </form>
+
+
+
+
+
+        </div>
+
+
+
+
+    </div>
+
+
+    <!--end  contact-me-->
+    <!--start footer-->
+
+    <div class="footer">
+        <div class="cont"><span>Copyright &copy; 2014 Focal - Built With Passion</span>
+        <div class="icons">
+     
+           <a href="#" ><i class="fa fa-facebook-official fa-2x"></i></a>
+          <a href="#" >  <img src="img/1459021290_twitter_circle_color.png"></a>
+          <a href="#" >  <img src="img/1459021336_social-circle-google-plus.png"></a>
+          <a href="#" > <img src="img/1459021367_linkedin.png"></a>
+            
+          
+        </div>
+        </div>
+    </div>
+    <!--end footer-->
+</body>
+
+
+
+</HTML>
